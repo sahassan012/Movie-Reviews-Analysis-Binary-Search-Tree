@@ -18,12 +18,12 @@ From the project directory execute:
 ```
 and you will be prompted to enter movie filename:
 ```console
-movies1.txt
+movies file?> movies1.txt
 ``` 
 
 you will then be prompted to enter reviews filename:
 ```console
-reviews1.txt
+reviews file?> reviews1.txt
 ``` 
 
 Output:
