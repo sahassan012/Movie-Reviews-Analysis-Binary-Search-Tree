@@ -1,6 +1,6 @@
 # Movie Reviews Analysis Using Binary Search Trees
 ## About
-This program utilizes an implementation of the Binary Search Tree data data structure to allow retrieval/storeage of data efficiently. 
+This program utilizes an implementation of the Binary Search Tree data structure to allow retrieval/storeage of data efficiently. 
 All search and insert algorithms are O(log N).
 
 ## How it works 
