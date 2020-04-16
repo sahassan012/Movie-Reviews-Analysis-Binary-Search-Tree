@@ -4,7 +4,7 @@ This program utilizes an implementation of the Binary Search Tree data datastruc
 All search and insert algorithms are O(log N).
 
 ## How it works 
-The user is prompted to input a .txt file consisting of movie data and a .txt file consisting of review data. The data is then parsed and stored in the BST data structure. 
+The user is prompted to input a .txt file consisting of movie data and a .txt file consisting of review data. The data is then parsed and stored in the BST data structure. After storage is completed, the user is allowed and prompted to search the data.
 The program accepts two .txt files:
  * Movies file
    - Each line consists: movie_id, year, title
@@ -37,5 +37,18 @@ Tree by movie name: size=252, height=16
 
 now you can search by id or name:
 ```console
-Enter a movie id or name (or # to quit)>175
+Enter a movie id or name (or # to quit)> 175
 ``` 
+
+Output:
+```gch
+Movie ID: 175
+Movie Name: Network
+Avg rating: 3.68107
+5 stars: 172
+4 stars: 311
+3 stars: 211
+2 stars: 67
+1 star: 26
+``` 
+
