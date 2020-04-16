@@ -1,4 +1,4 @@
-# Movie Reviews Analysis Using Binary Search Trees
+# Movie Reviews Analysis with Binary Search Tree Implementation
 ## About
 This program utilizes an implementation of the Binary Search Tree data structure to allow retrieval/storeage of data efficiently. 
 All search and insert algorithms are O(log N).
